@@ -7,7 +7,7 @@ LLM 기반의 자연어 처리 기능과 SQL 실행 모듈을 결합하여, 기�
 
 ![image](https://github.com/user-attachments/assets/786d82c8-83c9-446e-a72c-4ef971b32253)
 
-
+(현재 unittest와 unittest.mock을 이용한 테스트 코드를 개발 중입니다.)
 
 
 
