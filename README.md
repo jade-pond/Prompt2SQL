@@ -67,4 +67,4 @@ Prompt2SQL/
 
 
 ---
-이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 LICENSE 파일을 참조하세요.
+This project is licensed under the MIT License. See the LICENSE file for details.
